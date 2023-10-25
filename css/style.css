@@ -165,6 +165,12 @@ section {
   border-color: rgb(255, 255, 255);
 }
 
+.custom-card {
+  width: 90px; 
+  height: 100px;
+}
+
+
 /* Scrolling problem in MyWork Section */
 #myWork {
   overflow-x: hidden;
